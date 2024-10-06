@@ -1,0 +1,77 @@
+[
+  {
+    "model": "SLK-Class",
+    "code": "ml13m",
+    "name": "Grader"
+  },
+  {
+    "hourlyRate": 166.22,
+    "code": "05jc2",
+    "name": "Installation"
+  },
+  {
+    "model": "Lancer",
+    "code": "9voho",
+    "name": "Grader"
+  },
+  {
+    "model": "Swift",
+    "code": "3d86e",
+    "name": "Crawler"
+  },
+  {
+    "hourlyRate": 195.16,
+    "code": "j9gt6",
+    "name": "Delivery"
+  },
+  {
+    "unit": "5lb bag",
+    "unitPrice": 61.14,
+    "code": "f3z1m",
+    "name": "Mulch"
+  },
+  {
+    "hourlyRate": 5495.63,
+    "code": "3zbf4",
+    "name": "Plowing"
+  },
+  {
+    "hourlyRate": 8342.2,
+    "code": "kletv",
+    "name": "Cattle Vaccination"
+  },
+  {
+    "model": "RDX",
+    "code": "hx1lc",
+    "name": "Scraper"
+  },
+  {
+    "unit": "hoe",
+    "unitPrice": 26.82,
+    "code": "3rrll",
+    "name": "Hoe"
+  },
+  {
+    "unit": "bag",
+    "unitPrice": 82.0,
+    "code": "rxho7",
+    "name": "Cow feed"
+  },
+  {
+    "unit": "roll",
+    "unitPrice": 54.99,
+    "code": "i31io",
+    "name": "Wire fencing"
+  },
+  {
+    "model": "Avalanche 1500",
+    "code": "ketnx",
+    "name": "Trencher"
+  },
+  {
+    "unit": "ton",
+    "unitPrice": 95.59,
+    "code": "vjes5",
+    "name": "Hay"
+  }
+]

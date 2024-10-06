@@ -1,0 +1,139 @@
+//it aint formated pretty...sry didnt feel like wasting time messing with the tabs.
+
+Summary Report - by Total
++-------------------------------------------------------------------------+
+INV001	25fh8	Wildt, Doe			4	$ 1938.63	$ 164804.97
+INV002	f3qy9	McGinney, Anabel			2	$ 500.00	$ 115500.00
+INV003	evm01	Livings, Frances			2	$ 36.70	$ 6027.11
+INV004	ctm3n	Wessing, Wanids			2	$ 1121.22	$ 11767.20
+INV005	pjpyq	Gaines, Darcy			2	$ 2557.03	$ 53927.01
+							$ 6153.59	$ 352026.28
+=-------------------------------------------------------------------------=
+
+		Store Sales Summary Report
++-------------------------------------------------------------------------+
+25fh8	Splevings, Granny			4		$ 164804.97
+f3qy9	McGinney, Anabel			2		$ 115500.00
+evm01	Wessing, Wanids			2		$ 6027.11
+ctm3n	Marval, Mel			2		$ 11767.20
+pjpyq	Wildt, Doe			2		$ 53927.01
+
+					12		$ 352026.28
+=-------------------------------------------------------------------------=
+
++-------------------------------------------------------------------------+
+Invoice: INV001
+Store: 25fh8
+Date: 2021-02-01
+Customer:
+Wildt, Doe (jdmus :[dwildt0@instagram.com, dwildt0@reverbnation.com, dwildt0@arstechnica.com, dwildt0@bloomberg.com])
+	1 Ryan Drive
+	New York City, NY 10079 US
+Sales Person:
+Wildt, Doe (jdmus :[dwildt0@instagram.com, dwildt0@reverbnation.com, dwildt0@arstechnica.com, dwildt0@bloomberg.com])
+	7 Hooker Crossing
+	Wilmington, DE 19892 US
+Item				Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ml13m (Purchase)	Grader
+				$ 85000.0
+ml13m (Lease)	Grader
+		$ 3500.0
+				$ 42000.00
+3rrll (Product) 	Hoe
+		68.0
+				$ 1823.76
+3zbf4 (Service) 	Plowing
+	6.9
+				$ 37919.85
+				 Subtotal : $ 166743.61
+				Total Tax : $ 1938.63
+				Grand Total : $ 164804.97
+Invoice: INV002
+Store: f3qy9
+Date: 2022-11-03
+Customer:
+McGinney, Anabel (5uc2f :[amcginney1@blog.com, amcginney1@clickbank.net, amcginney1@tripod.com])
+	0 Golf Course Crossing
+	Salt Lake City, UT 84189 US
+Sales Person:
+McGinney, Anabel (5uc2f :[amcginney1@blog.com, amcginney1@clickbank.net, amcginney1@tripod.com])
+	6 Debs Drive
+	Portland, OR 97211 US
+Item				Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+hx1lc (Purchase)	Scraper
+				$ 8000.0
+ketnx (Lease)	Trencher
+		$ 3000.0
+				$ 108000.00
+				 Subtotal : $ 116000.00
+				Total Tax : $ 500.00
+				Grand Total : $ 115500.00
+Invoice: INV003
+Store: evm01
+Date: 2020-05-15
+Customer:
+Livings, Frances (oq6fn :[flivings2@clickbank.net, flivings2@posterous.com])
+	17 Lotheville Crossing
+	Louisville, KY 40220 US
+Sales Person:
+Livings, Frances (oq6fn :[flivings2@clickbank.net, flivings2@posterous.com])
+	61 Anthes Way
+	Montgomery, AL 36195 US
+Item				Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+05jc2 (Service) 	Installation
+	6.4
+				$ 1063.81
+9voho (Purchase)	Grader
+				$ 5000.0
+				 Subtotal : $ 6063.81
+				Total Tax : $ 36.70
+				Grand Total : $ 6027.11
+Invoice: INV004
+Store: ctm3n
+Date: 2019-12-21
+Customer:
+Wessing, Wanids (fwk38 :[wwessing4@stanford.edu, wwessing4@hatena.ne.jp, wwessing4@archive.org])
+	46 Utah Drive
+	New York City, NY 10060 US
+Sales Person:
+Wessing, Wanids (fwk38 :[wwessing4@stanford.edu, wwessing4@hatena.ne.jp, wwessing4@archive.org])
+	6 Debs Drive
+	Portland, OR 97211 US
+Item				Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+3d86e (Lease)	Crawler
+		$ 200.0
+				$ 4200.00
+i31io (Product) 	Wire fencing
+		158.0
+				$ 8688.42
+				 Subtotal : $ 12888.42
+				Total Tax : $ 1121.22
+				Grand Total : $ 11767.20
+Invoice: INV005
+Store: pjpyq
+Date: 2023-01-05
+Customer:
+Gaines, Darcy (z4ck9 :[dgaines6@edublogs.org, dgaines6@myspace.com, dgaines6@eepurl.com])
+	6 Debs Drive
+	Portland, OR 97211 US
+Sales Person:
+Gaines, Darcy (z4ck9 :[dgaines6@edublogs.org, dgaines6@myspace.com, dgaines6@eepurl.com])
+	1348 School Junction
+	Tampa, FL 33686 US
+Item				Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+vjes5 (Product) 	Hay
+		172.0
+				$ 16441.48
+kletv (Service) 	Cattle Vaccination
+	4.8
+				$ 40042.56
+				 Subtotal : $ 56484.04
+				Total Tax : $ 2557.03
+				Grand Total : $ 53927.01
+=-------------------------------------------------------------------------=
+
